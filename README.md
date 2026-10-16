@@ -97,6 +97,17 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [seedance-2-0-face-api-cn](https://github.com/y4ygh6e/seedance-2-0-face-api-cn)
+- **Same model, other languages** — 9 more language builds: Deutsch [seedance-2-0-face-api-de](https://github.com/xxswg/seedance-2-0-face-api-de) · Español [seedance-2-0-face-api-es](https://github.com/lxdyxdnt1/seedance-2-0-face-api-es) · Français [seedance-2-0-face-api-fr](https://github.com/ej2tpd/seedance-2-0-face-api-fr) · Relay/gateway [seedance-2-0-face-api-gateway](https://github.com/g-v9ai/seedance-2-0-face-api-gateway) · Bahasa [seedance-2-0-face-api-id](https://github.com/gtys7be5wu3/seedance-2-0-face-api-id) · 日本語 [seedance-2-0-face-api-ja](https://github.com/badqdz9-78k2/seedance-2-0-face-api-ja) · 한국어 [seedance-2-0-face-api-ko](https://github.com/zxdn4cniz2dan/seedance-2-0-face-api-ko) · Português [seedance-2-0-face-api-pt](https://github.com/yyox4g/seedance-2-0-face-api-pt) · Русский [seedance-2-0-face-api-ru](https://github.com/xdp1gl4x5jue5o/seedance-2-0-face-api-ru)
+- **More models in this language** — [midjourney-api-cn](https://github.com/apimartycl6k972t/midjourney-api-cn) · [gemini-2-5-flash-image-preview-api-cn](https://github.com/hm-5j/gemini-2-5-flash-image-preview-api-cn) · [nano-banana-api-cn](https://github.com/mpflv/nano-banana-api-cn) · [gemini-3-1-flash-image-preview-api-cn](https://github.com/utp00/gemini-3-1-flash-image-preview-api-cn) · [nano-banana-2-api-cn](https://github.com/i3hxnu6/nano-banana-2-api-cn) · [gemini-3-pro-image-preview-api-cn](https://github.com/vd0tv42d/gemini-3-pro-image-preview-api-cn)
+- **Topic hubs** — every build of this model, all languages: [seedance-2-0-face](https://github.com/topics/seedance-2-0-face) · [seedance-2-0-face-api](https://github.com/topics/seedance-2-0-face-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
